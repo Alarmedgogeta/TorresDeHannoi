@@ -1,0 +1,13 @@
+C:\Users\yadir\Documents\Escuelas\UVM\Quinto Semestre\Estructura de datos y algoritmos\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe.config
+C:\Users\yadir\Documents\Escuelas\UVM\Quinto Semestre\Estructura de datos y algoritmos\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe
+C:\Users\yadir\Documents\Escuelas\UVM\Quinto Semestre\Estructura de datos y algoritmos\Torres de Hanoi\bin\Debug\Torres de Hanoi.pdb
+C:\Users\yadir\Documents\Escuelas\UVM\Quinto Semestre\Estructura de datos y algoritmos\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Properties.Resources.resources
+C:\Users\yadir\Documents\Escuelas\UVM\Quinto Semestre\Estructura de datos y algoritmos\Torres de Hanoi\obj\Debug\Torres de Hanoi.csproj.GenerateResource.cache
+C:\Users\yadir\Documents\Escuelas\UVM\Quinto Semestre\Estructura de datos y algoritmos\Torres de Hanoi\obj\Debug\Torres de Hanoi.exe
+C:\Users\yadir\Documents\Escuelas\UVM\Quinto Semestre\Estructura de datos y algoritmos\Torres de Hanoi\obj\Debug\Torres de Hanoi.pdb
+C:\Users\yadir\Documents\Escuelas\UVM\Quinto Semestre\Estructura de datos y algoritmos\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Principal.resources
+C:\Users\yadir\Documents\Escuelas\UVM\Quinto Semestre\Estructura de datos y algoritmos\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe.manifest
+C:\Users\yadir\Documents\Escuelas\UVM\Quinto Semestre\Estructura de datos y algoritmos\Torres de Hanoi\bin\Debug\Torres de Hanoi.application
+C:\Users\yadir\Documents\Escuelas\UVM\Quinto Semestre\Estructura de datos y algoritmos\Torres de Hanoi\obj\Debug\Torres de Hanoi.exe.manifest
+C:\Users\yadir\Documents\Escuelas\UVM\Quinto Semestre\Estructura de datos y algoritmos\Torres de Hanoi\obj\Debug\Torres de Hanoi.application
+C:\Users\yadir\Documents\Escuelas\UVM\Quinto Semestre\Estructura de datos y algoritmos\Torres de Hanoi\obj\Debug\Torres de Hanoi.csprojAssemblyReference.cache
